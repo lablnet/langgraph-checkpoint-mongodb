@@ -1,10 +1,12 @@
 {
     "name": "langgraph-checkpoint-mongodb",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Production-ready MongoDB checkpointer for LangGraph (extends BaseCheckpointSaver). Works with LangGraph serde (optional), ships ESM/CJS + types.",
     "license": "MIT",
     "author": "Muhammad Umer Farooq <umer@lablnet.com>",
-    "publishConfig": { "access": "public" },
+    "publishConfig": {
+        "access": "public"
+    },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/lablnet/langgraph-checkpoint-mongodb.git"
