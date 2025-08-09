@@ -5,7 +5,7 @@ Production‑ready MongoDB checkpointer for LangGraph. A lightweight implementat
 ### Installation
 
 ```bash
-pnpm add @lablnet/langgraph-checkpoint-mongodb
+pnpm add langgraph-checkpoint-mongodb
 # or: npm i langgraph-checkpoint-mongodb
 ```
 
